@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\MultiDictionarySystem.Models\bin\Debug\MultiDictionarySystem.Models.dll
+c:\users\stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\MultiDictionarySystem.Models\bin\Debug\MultiDictionarySystem.Models.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\MultiDictionarySystem.Models\obj\Debug\MultiDictionarySystem.Models.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\MultiDictionarySystem.Models\obj\Debug\MultiDictionarySystem.Models.dll
+c:\users\stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\MultiDictionarySystem.Models\obj\Debug\MultiDictionarySystem.Models.pdb

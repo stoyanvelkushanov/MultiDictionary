@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionarySystem.Models", "MultiDictionarySystem.Models\MultiDictionarySystem.Models.csproj", "{35800337-0CC3-4698-BF95-6A87BADDDD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionarySystem.Data", "MultiDictionarySystem.Data\MultiDictionarySystem.Data.csproj", "{EEEBC07E-360E-4739-998D-706072D79442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionarySystem.User", "MultiDictionarySystem.User\MultiDictionarySystem.User.csproj", "{25E0D476-8489-4B69-A5C1-8892E8E0F886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{88BB4557-1563-4E4D-BE98-54B572017373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35800337-0CC3-4698-BF95-6A87BADDDD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35800337-0CC3-4698-BF95-6A87BADDDD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35800337-0CC3-4698-BF95-6A87BADDDD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35800337-0CC3-4698-BF95-6A87BADDDD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEBC07E-360E-4739-998D-706072D79442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEBC07E-360E-4739-998D-706072D79442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEBC07E-360E-4739-998D-706072D79442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEBC07E-360E-4739-998D-706072D79442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E0D476-8489-4B69-A5C1-8892E8E0F886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E0D476-8489-4B69-A5C1-8892E8E0F886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E0D476-8489-4B69-A5C1-8892E8E0F886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E0D476-8489-4B69-A5C1-8892E8E0F886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BB4557-1563-4E4D-BE98-54B572017373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BB4557-1563-4E4D-BE98-54B572017373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BB4557-1563-4E4D-BE98-54B572017373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BB4557-1563-4E4D-BE98-54B572017373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

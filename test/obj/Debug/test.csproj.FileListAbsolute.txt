@@ -1,0 +1,16 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\test.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\test.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\test.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\MultiDictionarySystem.Data.dll
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\MultiDictionarySystem.Models.dll
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\MultiDictionarySystem.User.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\MultiDictionarySystem.Data.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\MultiDictionarySystem.Models.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\MultiDictionarySystem.User.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\obj\Debug\test.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\MultiDictionarySystem\test\obj\Debug\test.pdb
